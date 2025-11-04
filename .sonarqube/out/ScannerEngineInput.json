@@ -1,0 +1,136 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1762283100000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "EnfudeAPI"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\jaofdev\\EnfudeAPI"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\jaofdev\\EnfudeAPI"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "E9E365C7-77E9-4E8D-B080-C20B29155E12,80B54E03-708A-45A6-8E3E-02F889F0559A"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.projectKey",
+      "value": "EnfudeAPI:E9E365C7-77E9-4E8D-B080-C20B29155E12"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.projectName",
+      "value": "EnfudeAPI"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.projectBaseDir",
+      "value": "C:\\jaofdev\\EnfudeAPI\\EnfudeAPI"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.working.directory",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.sources",
+      "value": "C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\Domain\\Entities\\Lote.cs,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\Domain\\Entities\\Racimo.cs,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\Domain\\Entities\\Usuario.cs,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\Program.cs,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\Debug\\net8.0\\EnfudeAPI.GlobalUsings.g.cs,\"C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\Debug\\net8.0\\EnfudeAPI.AssemblyInfo.cs,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\Debug\\net8.0\\EnfudeAPI.MvcApplicationPartsAssemblyInfo.cs,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\appsettings.Development.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\appsettings.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\compiled.xml,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\EnfudeAPI.http,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\Properties\\launchSettings.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\.vscode\\settings.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\EnfudeAPI.csproj.nuget.dgspec.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\project.assets.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\bin\\Debug\\net8.0\\appsettings.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\bin\\Debug\\net8.0\\EnfudeAPI.deps.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\bin\\Debug\\net8.0\\EnfudeAPI.runtimeconfig.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\Debug\\net8.0\\EnfudeAPI.sourcelink.json,C:\\jaofdev\\EnfudeAPI\\EnfudeAPI\\obj\\Debug\\net8.0\\staticwebassets.build.json"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "E9E365C7-77E9-4E8D-B080-C20B29155E12.sonar.cs.scanner.telemetry",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.projectKey",
+      "value": "EnfudeAPI:80B54E03-708A-45A6-8E3E-02F889F0559A"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.projectName",
+      "value": "EnfundeAPI.Tests"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.projectBaseDir",
+      "value": "C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.working.directory",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.tests",
+      "value": "C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\obj\\EnfundeAPI.Tests.csproj.nuget.dgspec.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\obj\\project.assets.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\bin\\Debug\\net8.0\\appsettings.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\bin\\Debug\\net8.0\\EnfudeAPI.deps.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\bin\\Debug\\net8.0\\EnfudeAPI.runtimeconfig.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\bin\\Debug\\net8.0\\EnfundeAPI.Tests.deps.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\bin\\Debug\\net8.0\\EnfundeAPI.Tests.runtimeconfig.json,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\Domain\\UsuarioTests.cs,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\TestResults\\02c0e8ba-de22-4562-8224-cd395a2bf050\\coverage.cobertura.xml,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\TestResults\\c6527ec4-fb54-4e0d-84ab-6b047b2da966\\coverage.cobertura.xml,C:\\jaofdev\\EnfudeAPI\\EnfundeAPI.Tests\\TestResults\\cec3d6f9-ff67-4a7a-9517-f47151fc5f42\\coverage.cobertura.xml"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "80B54E03-708A-45A6-8E3E-02F889F0559A.sonar.cs.scanner.telemetry",
+      "value": "C:\\jaofdev\\EnfudeAPI\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "sonar.login",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

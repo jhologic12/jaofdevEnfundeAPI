@@ -1,0 +1,9 @@
+﻿C:\jaofdev\EnfudeAPI\EnfundeAPI.Tests\Domain\UsuarioTests.cs
+C:\Users\jaofd\.nuget\packages\microsoft.net.test.sdk\18.0.0\build\net8.0\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\jaofd\.nuget\packages\microsoft.testplatform.testhost\18.0.0\build\net8.0\x64\testhost.exe
+C:\Users\jaofd\.nuget\packages\microsoft.testplatform.testhost\18.0.0\build\net8.0\x64\testhost.dll
+C:\Users\jaofd\.nuget\packages\xunit.runner.visualstudio\3.1.5\build\net8.0\xunit.abstractions.dll
+C:\Users\jaofd\.nuget\packages\xunit.runner.visualstudio\3.1.5\build\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\jaofdev\EnfudeAPI\EnfundeAPI.Tests\TestResults\02c0e8ba-de22-4562-8224-cd395a2bf050\coverage.cobertura.xml
+C:\jaofdev\EnfudeAPI\EnfundeAPI.Tests\TestResults\c6527ec4-fb54-4e0d-84ab-6b047b2da966\coverage.cobertura.xml
+C:\jaofdev\EnfudeAPI\EnfundeAPI.Tests\TestResults\cec3d6f9-ff67-4a7a-9517-f47151fc5f42\coverage.cobertura.xml

@@ -1,0 +1,1 @@
+SR=C:\jaofdev\EnfudeAPI\EnfundeAPI.Tests\EnfundeAPI.Tests.csproj¢net8.0òCSharp12

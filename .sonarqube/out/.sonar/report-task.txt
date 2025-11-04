@@ -1,0 +1,6 @@
+projectKey=EnfudeAPI
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=EnfudeAPI
+ceTaskId=0eec4cf7-b657-452d-944f-1777227be12d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0eec4cf7-b657-452d-944f-1777227be12d
