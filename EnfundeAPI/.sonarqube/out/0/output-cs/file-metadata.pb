@@ -1,0 +1,9 @@
+g
+\C:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\EnfudeAPI.MvcApplicationPartsAssemblyInfo.csutf-8T
+IC:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\EnfudeAPI.AssemblyInfo.csutf-8i
+^C:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-82
+)C:\jaofdev\EnfudeAPI\EnfudeAPI\Program.csutf-8B
+9C:\jaofdev\EnfudeAPI\EnfudeAPI\Domain\Entities\Usuario.csutf-8A
+8C:\jaofdev\EnfudeAPI\EnfudeAPI\Domain\Entities\Racimo.csutf-8V
+KC:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\EnfudeAPI.GlobalUsings.g.csutf-8?
+6C:\jaofdev\EnfudeAPI\EnfudeAPI\Domain\Entities\Lote.csutf-8

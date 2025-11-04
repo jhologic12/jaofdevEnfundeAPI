@@ -1,0 +1,12 @@
+﻿C:\jaofdev\EnfudeAPI\EnfudeAPI\Domain\Entities\Lote.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\Domain\Entities\Racimo.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\Domain\Entities\Usuario.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\Program.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\EnfudeAPI.GlobalUsings.g.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\EnfudeAPI.AssemblyInfo.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\obj\Debug\net8.0\EnfudeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\jaofdev\EnfudeAPI\EnfudeAPI\appsettings.Development.json
+C:\jaofdev\EnfudeAPI\EnfudeAPI\appsettings.json
+C:\jaofdev\EnfudeAPI\EnfudeAPI\EnfudeAPI.http
+C:\jaofdev\EnfudeAPI\EnfudeAPI\Properties\launchSettings.json
