@@ -1,4 +1,4 @@
-README.md (Español / English)
+
 # jaofdevEnfudeAPI
 
 🌱 API modular para trazabilidad agrícola, diseñada por [jaofdev](https://github.com/jaofdev)  
